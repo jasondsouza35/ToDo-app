@@ -11,7 +11,6 @@ function TodoForm({ addTodo }) {
 
   function handleTaskInputChange(e) {
     // e.target.value contains new input from onChange
-    // event for input elements
     setTodo({ ...todo, task: e.target.value });
   }
 
