@@ -1,7 +1,8 @@
 # readme
 Have a lot of things to do but don't know where to start? Try organizing them with a ToDo list!
 
-This is a ToDo list I made with HTML, CSS, JavaScript and React. If you want to test it yourself here is the link: https://todo-app-jasondsouza35.netlify.app/!
+This is a ToDo list I made with HTML, CSS, JavaScript and React. 
+Here's the link if you'd like to test it yourself: https://todo-app-jasondsouza35.netlify.app/!
 
 
 
